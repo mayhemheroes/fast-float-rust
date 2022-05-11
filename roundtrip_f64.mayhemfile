@@ -1,0 +1,5 @@
+project: fast-float-rust
+target: roundtrip_f64
+
+cmds:
+    - cmd: /roundtrip_f64

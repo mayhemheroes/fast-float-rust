@@ -1,0 +1,5 @@
+project: fast-float-rust
+target: fast_float
+
+cmds:
+    - cmd: /fast_float
